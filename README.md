@@ -4,15 +4,15 @@ Final Project for ECE 5555 Fall 2017 Cornell
 
 Studied four MAB algorithms
 
-epsilon greedy
+* epsilon greedy
 
-Boltzmann exploration
+* Boltzmann exploration
 
-Upper confidence bounds
+* Upper confidence bounds
 
-Thompson sampling
+* Thompson sampling
 
-##Reference：
+## Reference：
 
 [Introduction to Multi-Armed Bandits](http://slivkins.com/work/MAB-book.pdf)
 
